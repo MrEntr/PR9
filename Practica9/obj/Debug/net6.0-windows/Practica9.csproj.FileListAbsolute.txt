@@ -1,0 +1,8 @@
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\Practica9.csproj.AssemblyReference.cache
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\NewWindow.g.cs
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\Practica9_MarkupCompile.cache
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\Practica9_MarkupCompile.lref
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\FirstPage.g.cs
+C:\Users\valiu\source\repos\Practica9\Practica9\obj\Debug\net6.0-windows\SecondPage.g.cs
